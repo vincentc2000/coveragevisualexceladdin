@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AppCatalog xmlns="http://schemas.microsoft.com/office/appforoffice/1.1">
+  <App
+    Id="ADD-IN-ID-FROM-MANIFEST"
+    Version="1.0.0.0"
+    DisplayName="Excel GitHub Addin"
+    ManifestUrl="https://vincentc2000.github.io/coveragevisualexceladdin/manifest.xml" />
+</AppCatalog>
